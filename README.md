@@ -25,3 +25,6 @@ The challenges I took even futhure was i use the VBA_Challenge.vbs then paste it
 
 ![](GreenStocks_2017.png)
 ![](GreenStocks_2018.png)
+
+## Summary: Advantages and disvantgages. 
+The purpose of using Refactoring the code is to improved the organizingm readability and reduce run time. It helps to analyzes any work for instace stocks that can run analaysis in short amount time. But the disadvantage of doing refactoring is the long process of solving problems to approach the solution according to client's desire of work. Requiring to test altnertive steps and testing to see how it plays out in the script. While working on refactor script we may encounter some bugs to tight deadlines which we have to choose either fix refactoring or develop new script. 
